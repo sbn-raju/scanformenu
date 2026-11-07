@@ -1,0 +1,154 @@
+{
+  "version": 1,
+  "skills": {
+    "ai-tasks": {
+      "source": "imagekit-developer/skills",
+      "sourceType": "github",
+      "skillPath": "skills/ai-tasks/SKILL.md",
+      "computedHash": "349fad3469bf1d4a2f0af928bbde98122a1a05b0c11f326a90e04017ba1b972a"
+    },
+    "asset-access-control": {
+      "source": "imagekit-developer/skills",
+      "sourceType": "github",
+      "skillPath": "skills/asset-access-control/SKILL.md",
+      "computedHash": "848f3be19578ad116289c75235026b497571ef074f5a73edafb9e6fa47e921d6"
+    },
+    "clerk": {
+      "source": "clerk/skills",
+      "sourceType": "github",
+      "skillPath": "skills/clerk/SKILL.md",
+      "computedHash": "61e33bfbc058da6c5924bfca7b2fedc57adf83d79a08014b15625c4b62b344e1"
+    },
+    "clerk-backend-api": {
+      "source": "clerk/skills",
+      "sourceType": "github",
+      "skillPath": "skills/clerk-backend-api/SKILL.md",
+      "computedHash": "f3204ff593e5c2a9db60380464a79442d97f028c5dc4f8e66f853dc536ad78df"
+    },
+    "clerk-nextjs-patterns": {
+      "source": "clerk/skills",
+      "sourceType": "github",
+      "skillPath": "skills/clerk-nextjs-patterns/SKILL.md",
+      "computedHash": "dbd12076e3f36815bdb967312184723e78d829278dcf0df366a77cabde1f5fbf"
+    },
+    "clerk-orgs": {
+      "source": "clerk/skills",
+      "sourceType": "github",
+      "skillPath": "skills/clerk-orgs/SKILL.md",
+      "computedHash": "d888b2c3e1b408b0213b24b08f22863ce5f8e0002ce89b0a280d4717cfa8612c"
+    },
+    "clerk-react-patterns": {
+      "source": "clerk/skills",
+      "sourceType": "github",
+      "skillPath": "skills/clerk-react-patterns/SKILL.md",
+      "computedHash": "9bbc28d1825bda0f31a33660b3e339719bc0ad2a30696dfde14ef6b9493371b0"
+    },
+    "clerk-react-router-patterns": {
+      "source": "clerk/skills",
+      "sourceType": "github",
+      "skillPath": "skills/clerk-react-router-patterns/SKILL.md",
+      "computedHash": "7bec40aa5b6755248537017e13a3ebeaaf0cb1ac55b76eda2987a6d2b5ff58f3"
+    },
+    "clerk-setup": {
+      "source": "clerk/skills",
+      "sourceType": "github",
+      "skillPath": "skills/clerk-setup/SKILL.md",
+      "computedHash": "6838536fb1e07f5720959045c86fe35c9d43ba98bfbb26ed6d4dc61ab7a79d30"
+    },
+    "clerk-testing": {
+      "source": "clerk/skills",
+      "sourceType": "github",
+      "skillPath": "skills/clerk-testing/SKILL.md",
+      "computedHash": "5e3d16b2676190d5edba77b18f28491bbca11bb6dd4fb110958d2c1815945178"
+    },
+    "drizzle": {
+      "source": "./node_modules/drizzle-kit/skills",
+      "sourceType": "local",
+      "computedHash": "27540b3acc549af69f3882a32f4daa68b2efea9c8724d4506631770cd4b13c88"
+    },
+    "imagekit-integrations": {
+      "source": "imagekit-developer/skills",
+      "sourceType": "github",
+      "skillPath": "skills/imagekit-integrations/SKILL.md",
+      "computedHash": "96f16e51ed4fc49df89a8c9018d8daf56aaecfbb24c2486b3820b665361d311f"
+    },
+    "mcp-preflight": {
+      "source": "imagekit-developer/skills",
+      "sourceType": "github",
+      "skillPath": "skills/mcp-preflight/SKILL.md",
+      "computedHash": "b92ddb2675ba2d0c194bf8da9f91e8cd5adbe8d27b136395509a4c2bd91265bf"
+    },
+    "migrate-radix-to-base": {
+      "source": "shadcn/ui",
+      "sourceType": "github",
+      "skillPath": "skills/migrate-radix-to-base/SKILL.md",
+      "computedHash": "e1f2030ee5059be3dff0812ca0e4b995ee9fa3132176f049ebe6c90346a6755e"
+    },
+    "search-assets": {
+      "source": "imagekit-developer/skills",
+      "sourceType": "github",
+      "skillPath": "skills/search-assets/SKILL.md",
+      "computedHash": "0934f5a88b3b3e6cd2ef8b327dc1bad7251c3b6c1ed478bb90532b2579288e5b"
+    },
+    "search-docs": {
+      "source": "imagekit-developer/skills",
+      "sourceType": "github",
+      "skillPath": "skills/search-docs/SKILL.md",
+      "computedHash": "42b3c9b45d8eb83e74afb12d32ff05ffe1d4711233f4a9d3ccd5cd8d35d7292c"
+    },
+    "shadcn": {
+      "source": "shadcn/ui",
+      "sourceType": "github",
+      "skillPath": "skills/shadcn/SKILL.md",
+      "computedHash": "b864a958765563321f485a96f4d59c0bb6539f4286ab6d8b8b66895b7ebd302d"
+    },
+    "supabase": {
+      "source": "supabase/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/supabase/SKILL.md",
+      "computedHash": "211141fd078b4b3645803868528d54221bc7755d24d5c8af45a366785c151dba"
+    },
+    "supabase-postgres-best-practices": {
+      "source": "supabase/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/supabase-postgres-best-practices/SKILL.md",
+      "computedHash": "e14e276241805c97dbcfe40dcbea1a3035269cc7293cac4b1832dda41a835e60"
+    },
+    "transformation-builder": {
+      "source": "imagekit-developer/skills",
+      "sourceType": "github",
+      "skillPath": "skills/transformation-builder/SKILL.md",
+      "computedHash": "fc642723b4afbc18dc3c14d0536a13b5e74999eed2818001abc55e4eef9fa149"
+    },
+    "upload-files": {
+      "source": "imagekit-developer/skills",
+      "sourceType": "github",
+      "skillPath": "skills/upload-files/SKILL.md",
+      "computedHash": "b51233d6f40036a1c60be87ea66648053913a16a7341c320e3df93f0529ac47a"
+    },
+    "upstash": {
+      "source": "upstash/skills",
+      "sourceType": "github",
+      "skillPath": "skills/upstash/SKILL.md",
+      "computedHash": "0e4d366597260eeeb142c0247ae1d6b1e308f081a65911efb4ccf728a51a13f0"
+    },
+    "upstash-ratelimit-js": {
+      "source": "upstash/skills",
+      "sourceType": "github",
+      "skillPath": "skills/upstash-ratelimit-js/SKILL.md",
+      "computedHash": "b9287d583c4d8fe36d8bf1eeb3fb112b0cbb2624b47a83d1ee02d6f5390fe6f2"
+    },
+    "upstash-redis-js": {
+      "source": "upstash/skills",
+      "sourceType": "github",
+      "skillPath": "skills/upstash-redis-js/SKILL.md",
+      "computedHash": "4869db773b6391ed1fe1a39e9a9e3db7d4a597f089e82d4a5db396f80313a85b"
+    },
+    "upstash-redis-start": {
+      "source": "upstash/skills",
+      "sourceType": "github",
+      "skillPath": "skills/upstash-redis-start/SKILL.md",
+      "computedHash": "94dda8e7224c466317eb9a414885b330b479d33c709d8fb99de418d6524067f2"
+    }
+  }
+}
